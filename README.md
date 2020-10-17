@@ -1,2 +1,2 @@
 # Password-Generator
-This wil generate password autmatically 
+This will generate password autmatically.
